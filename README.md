@@ -28,7 +28,7 @@
 
 在游戏开始界面，点击play game开始游戏：
 
-![image-20250629213059906](D:\download\typora_img\image-20250629213059906.png)
+![start](./image/start.png)
 
 
 
