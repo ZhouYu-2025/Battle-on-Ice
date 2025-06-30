@@ -34,7 +34,7 @@
 
 在人物选择界面，鼠标左键选择Player1人物，右键选择Player2人物，点击enter键开始游戏。
 
- ![image-20250629213123517](D:\download\typora_img\image-20250629213123517.png)
+ ![selection](./image/select.png)
 
 [人物选择]
 
