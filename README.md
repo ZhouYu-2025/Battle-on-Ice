@@ -42,7 +42,7 @@
 
 [游戏界面]：
 
-   ![image-20250629213147909](D:\download\typora_img\image-20250629213147909.png)
+   ![play](./image/play1.png)
 
 [游戏-开始-通关 ] 
 
