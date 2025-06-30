@@ -65,7 +65,7 @@
 
  
 
-![image-20250629213310320](D:\download\typora_img\image-20250629213310320.png) 
+![congratulation](./image/congratulate.png)
 
 [结束庆祝界面]
 
@@ -87,15 +87,15 @@
 
 关卡间难度递进，地图复杂度提升，逐步考验玩家的想象力和团队协作能力。并且，关卡的通关路径不唯一，可以采取不同的顺序与策略吃到所有面包，避免了游戏过程的单调性，玩家可以在闯关过程中不断探索，保持新鲜感和挑战欲。关卡经过测试，能确保每关都至少有一种通关路径。根据测试反馈，我们调整了一些关卡的难度和布局，确保每个关卡都能为玩家带来独特的挑战和乐趣。
 
- ![image-20250629213319348](D:\download\typora_img\image-20250629213319348.png)
+ ![level](./image/level1.png)
 
 [ 示例关卡1 ]
 
- ![image-20250629213323867](D:\download\typora_img\image-20250629213323867.png)
+ ![level](./image/level2.png)
 
 [ 示例关卡2 ]
 
- ![image-20250629213328553](D:\download\typora_img\image-20250629213328553.png)
+ ![level](./image/level3.png)
 
 [ 示例关卡3 ]
 
