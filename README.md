@@ -42,7 +42,7 @@
 
 [游戏界面]：
 
-   ![play](./image/play1.png)
+   ![play](./image/play1.png)  ![play](./image/play2.png)
 
 [游戏-开始-通关 ] 
 
