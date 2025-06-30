@@ -47,14 +47,14 @@
 [游戏-开始-通关 ] 
 
 [双人协作吃到所有面包后，游戏结束]
+![play](./image/play3.png)  ![play](./image/play4.png)
 
 游戏中设置了独特的动画效果，流畅自然，并且搭配了对应的音效，提高游戏体验。如小动物吃到面包后会变成圆滚滚的吃饱形态，此时搭配吃东西的音效。小动物碰到破碎的冰块会陷入冰中，此时搭配冰块碎裂的音效。小动物撞到围栏上会有碰撞效果等。
 
-![image-20250629213247465](D:\download\typora_img\image-20250629213247465.png)
-
-![image-20250629213301868](D:\download\typora_img\image-20250629213301868.png)
+![play](./image/play5.png)  ![play](./image/play6.png)
 
 ​          
+![play](./image/play7.png)  ![play](./image/play8.png)
 
 [小兔子-碰到破碎的冰块🧊，无法移动]
 
